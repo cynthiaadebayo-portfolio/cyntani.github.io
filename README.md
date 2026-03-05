@@ -1,6 +1,7 @@
 #exampleportfolio
 
 ##Projects
+
 ###Project 1
 - Description
 - Links
@@ -9,8 +10,8 @@
 - Description
 - Links
 
-#Education
--University
+# Education
+- University
 
 # Work History
 - Workplace 1
